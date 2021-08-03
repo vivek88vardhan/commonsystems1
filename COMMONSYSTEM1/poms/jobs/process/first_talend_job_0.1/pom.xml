@@ -8,7 +8,7 @@
     <version>7.3.1</version>
     <relativePath>../../../</relativePath>
   </parent>
-  <groupId>org.example.commonsystem1.job</groupId>
+  <groupId>com.tcs.commonsystem1.jobs</groupId>
   <artifactId>first_talend_job</artifactId>
   <version>0.1.0</version>
   <name>COMMONSYSTEM1 first_talend_job-0.1.0 (0.1,Job Designs)</name>
